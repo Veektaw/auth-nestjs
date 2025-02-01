@@ -1,0 +1,2 @@
+## For auth
+yarn add @nestjs/jwt @nestjs/passport passport passport-jwt passport-local
